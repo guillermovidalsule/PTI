@@ -17,6 +17,9 @@ __More to be added....__
 > [!WARNING]
 > El proyecto está en etapa de gestación. Por favor mirad detenidamente toda la documentación.
 
+## Folders
++ **Documentation** - Important guidelines regarding the overall development of the project.
+
 ## Main Contributors
 Joan Llonch Majò (linkedIN link)  
 Guillermo Vidal Sulé (linkedIN link)  
