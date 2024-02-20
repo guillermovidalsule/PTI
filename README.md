@@ -4,13 +4,13 @@ __This is an undergoing project by 4 students at Universitat Politècnica de Cat
 ## Description
 The aim of this project is to develop a reliable security monitoring system that uses autonomous robots to surveil a certain perimeter. It will provide a user-friendly interface for entreprises to devise an efficient surveilance plan, allowing them to determine the route of its robots and detect trespassers. The implemented features are the following:
 1. Hardware of the provided robot
-  a. X protocol
-  b. Video streaming
+   a. X protocol
+   b. Video streaming
   c. Route tracing
   d. Autonomous driving
-2. Android application
-3. Web API
-4. Cloud-based database
+3. Android application
+4. Web API
+5. Cloud-based database
    
 __More to be added....__  
 
