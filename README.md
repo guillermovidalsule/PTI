@@ -18,7 +18,7 @@ __More to be added....__
 > El proyecto está en etapa de gestación. Por favor mirad detenidamente toda la documentación.
 
 ## Main Contributors
-Joan Llonch Majò (linkedIN link)
-Guillermo Vidal Sulé (linkedIN link)
-Oriol Vilella Jam (linkedIN link)
-Luis Jesús Valverde (linkedIN link)
+Joan Llonch Majò (linkedIN link)  
+Guillermo Vidal Sulé (linkedIN link)  
+Oriol Vilella Jam (linkedIN link)  
+Luis Jesús Valverde (linkedIN link)  
