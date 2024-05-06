@@ -11,7 +11,7 @@ def index():
 
 
 
-@app.route('/robot', methods=['GET', 'POST'])
+@app.route('/robot', methods=['POST', 'GET'])
 def robot():
     if request.method == 'POST':
         # Obtener los datos del formulario
@@ -48,29 +48,30 @@ def robot():
             "robotname": robotname
              }
             
-            response = request.post('http://nattech.fib.upc.edu:40342)/robot/alta', json=data, headers=headers1) 
+            response = request.post('http://nattech.fib.upc.edu:40342/robot/alta', json=data, headers=headers1) 
 
+            if response.status_code == 200:
+                nombre_archivo = "info_robot.txt"
+                with open(nombre_archivo, 'w') as archivo:
+                    archivo.write(response)
 
-            nombre_archivo = "info_robot.txt"
-            with open(nombre_archivo, 'w') as archivo:
-                archivo.write(response)
-
-            return "Robot creado satisfactoriamente"
+                return "Robot creado satisfactoriamente"
 
         else:
-            return 'Error al enviar la solicitud'
+            return 'Error al enviar la solicitud' 
         
-        #return render_template('robot/robot.html')
     else:
-
          return render_template('robot/robot.html')
+
+
+   
 
 def pagina_no_encontrada(error):
     return render_template('404.html'), 404
 
 if __name__ == '__main__':
     app.register_error_handler(404, pagina_no_encontrada)
-    app.run(debug=True,host= '127.0.0.1', port=5000)
+    app.run(debug=True,host= '172.16.4.34', port=8089)
     #poner 127.0.0.1 que las de nattech no funcionan temporalmente, cuando vuelvan a funcionar poner las de abajo
     #172.16.4.34
     #8089
