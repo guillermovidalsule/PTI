@@ -1,0 +1,22 @@
+.talos__brand {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.talos__brand div {
+    flex: 1;
+    max-width: 150px;
+    min-width: 120px;
+    margin: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.talos__brand img {
+    width: 200px;
+    height: auto;
+    filter: brightness(150%);
+}

@@ -1,0 +1,13 @@
+.talos__logo-image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.talos__logo-image img {
+    width: 40%;
+    height: 40%;
+
+}
