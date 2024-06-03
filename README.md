@@ -14,7 +14,7 @@ The aim of this project was to produce a security system which involves the crea
 + **Website** - The website's source code.
 
 ## Main Contributors
-Joan Llonch Majò (linkedIN link)  
+Joan Llonch Majò ([LinkedIN](https://www.linkedin.com/in/joan-llonch-09981a281))  
 Guillermo Vidal Sulé ([LinkedIN](https://www.linkedin.com/in/guillermo-vidal-sul%C3%A9-821219295/))  
-Oriol Vilella Jam (linkedIN link)  
+Oriol Vilella Jam ([LinkedIN](https://www.linkedin.com/in/oriol-vilella-jam-8305372b5))  
 Luis Jesús Valverde (linkedIN link)  
