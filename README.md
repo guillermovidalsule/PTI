@@ -2,26 +2,19 @@
 __This is an undergoing project by 4 students at Universitat Politècnica de Catalunya belonging to the subject Information Technologies Project.__ 
 
 ## Description
-The aim of this project is to develop a reliable security monitoring system that uses autonomous robots to surveil a certain perimeter. It will provide a user-friendly interface for entreprises to devise an efficient surveilance plan, allowing them to determine the route of its robots and detect trespassers. The implemented features are the following:
-1. Hardware of the provided robot
-   -  X protocol
-   -  Video streaming
-   -  oute tracing
-   -  Autonomous driving
-3. Android application
-4. Web API
-5. Cloud-based database
-   
-__More to be added....__  
+The aim of this project was to produce a security system which involves the creation of an autonomous robot and providing a user-friendly interface. This robot (Talos), was expected to have multiple functionalities, but only some of them were implemented due to time constraints. 
 
 > [!WARNING]
 > El proyecto está en etapa de gestación. Por favor mirad detenidamente toda la documentación.
 
 ## Folders
-+ **Documentation** - Important guidelines regarding the overall development of the project.
++ **Documentation** - Relevant information and documents regarding the project.
++ **Mobile Application** - The codebase of the mobile application.
++ **Restful API** - Backend codebase.
++ **Website** - The website's source code.
 
 ## Main Contributors
 Joan Llonch Majò (linkedIN link)  
-Guillermo Vidal Sulé (linkedIN link)  
+Guillermo Vidal Sulé ([LinkedIN](https://www.linkedin.com/in/guillermo-vidal-sul%C3%A9-821219295/))  
 Oriol Vilella Jam (linkedIN link)  
 Luis Jesús Valverde (linkedIN link)  
