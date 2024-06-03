@@ -1,0 +1,4 @@
+site_name: Talos Documentation
+theme: ivory
+markdown_extensions:
+  - attr_list
