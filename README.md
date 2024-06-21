@@ -4,9 +4,6 @@ __This is an undergoing project by 4 students at Universitat Politècnica de Cat
 ## Description
 The aim of this project was to produce a security system which involves the creation of an autonomous robot and providing a user-friendly interface. This robot (Talos), was expected to have multiple functionalities, but only some of them were implemented due to time constraints. 
 
-> [!WARNING]
-> El proyecto está en etapa de gestación. Por favor mirad detenidamente toda la documentación.
-
 ## Folders
 + **Documentation** - Relevant information and documents regarding the project.
 + **Mobile Application** - The codebase of the mobile application.
