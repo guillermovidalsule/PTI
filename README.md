@@ -1,5 +1,5 @@
 # Information Technologies Project
-__This is an undergoing project by 4 students at Universitat Politècnica de Catalunya belonging to the subject Information Technologies Project.__ 
+__This is a finished project by 4 students at Universitat Politècnica de Catalunya belonging to the subject Information Technologies Project.__ 
 
 ## Description
 The aim of this project was to produce a security system which involves the creation of an autonomous robot and providing a user-friendly interface. This robot (Talos), was expected to have multiple functionalities, but only some of them were implemented due to time constraints. 
